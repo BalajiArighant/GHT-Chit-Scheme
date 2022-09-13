@@ -1,2 +1,2 @@
 # GHT-Chit-Scheme
-Websit for GHT Jewellers
+Website for GHT Jewellers
